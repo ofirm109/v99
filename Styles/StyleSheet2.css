@@ -1,0 +1,27 @@
+﻿body {
+    margin: 0;            /* Reset default margin */
+}
+#container{
+        background-color: rgba(97, 138, 232, 0.1);
+
+}
+
+
+@media (min-width: 175px) {
+iframe {
+    display: block;       /* iframes are inline by default */
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 100vw;
+}
+}
+@media (min-width: 768px) {
+    iframe {
+    display: block;       /* iframes are inline by default */
+    border: none;         /* Reset default border */
+    height: 100vh;        /* Viewport-relative units */
+    width: 30vw;
+    margin:auto;
+}
+}
+

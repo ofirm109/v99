@@ -1,0 +1,452 @@
+﻿<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="utf-8" />
+    <title>תעבירו את זה הלאה</title>
+    <meta name="description" content=" בקומיקס אינטראקטיבי בנושא פגיעות מיניות ברשת" />
+    <meta name="keywords" content="קומיקס, פרויקט ,אינטראקטיבי, תודעה ,מינית , מחקרים , HIT" />
+    <meta name="author" content="אופיר מזרחי ועמר כרמי" />
+    <link rel="icon" type="image/png" href="images/favicon-32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="images/favicon-16x16.png" sizes="16x16" />
+    <!--<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">-->
+    <meta content='width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;' name='viewport' />
+    <meta name="viewport" content="width=device-width" />
+    <meta name="theme-color" content="#8E69FF" />
+    <!-- Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#8E69FF">
+    <!-- iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#8E69FF">
+
+    <!-- CSS -->
+    <link href="Styles/reset.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="Styles/myStyle.css" rel="stylesheet" type="text/css" />
+
+    <!-- Scripts -->
+    <script src="//code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <!--<script src="jScripts/jquery-2.1.1.min.js" type="text/javascript"></script>-->
+
+    <script src="//code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+    <script src="jScripts/JavaScript.js" type="text/javascript"></script>
+</head>
+<body>
+    <div id="container">
+        <!--מסך פתיחה-->
+        <img src="images/op-54.png" width="100%" id="op" />
+        <div id="navOp">
+            <img id="myLogo" src="images/logo2.png" />
+            <button type="button" id="student" class="btn  btn-lg opBut opButColor ">כניסה לתלמיד</button>
+            <button type="button" id="techer" class="btn  btn-lg opBut opButColor">כניסה למורה</button>
+
+
+        </div>
+        <!--כניסה למורה-->
+        <div id="OPtecher" class="opBut">
+            <button  type="button" id="perTchPass" class="btn  opButColor myPer ">
+                חזרה
+            </button>
+            
+
+
+            <label for="pass" class="textwith">סיסמה</label>
+            <input type="password" class="form-control" id="pass" placeholder="כתוב סיסמה">
+            <button type="button" id="startTch" class="btn  btn-lg opButColor secendBut">כניסה</button>
+
+
+
+        </div>
+        <!--דף הדרכה למורים-->
+        <div id="lerenTecher" dir="rtl" class="opBut1">
+
+            <button  type="button" id="perTch" class="btn  opButColor myPer">חזרה</button>
+
+
+
+            <div class="accordion" id="accordionExample">
+                <div class="card">
+                    <div class="card-header" id="headingOne">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                                אודות הפרויקט
+                            </button>
+                        </h2>
+                    </div>
+
+                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <h3>אודות הפרויקט</h3>
+                            <p>
+                                אנחנו אופיר מזרחי ועמר כרמי סטודנטים לטכנולוגיות למידה במכון הטכנולוגי חולון. <br />
+                                במסגרת פרויקט הגמר שלנו עבדנו בשיתוף פעולה עם עמותת תודעה כדי להכין תוצר זה. <br />
+                                עמותת תודעה הוקמה בשנת 2002 כארגון הראשון בארץ שבמטרתו להיאבק בתופעת הזנות. <br />
+                                כיום העמותה עוסקת בחינוך ובהסברה לנוער (צעירות וצעירים) כדי למנוע מצבים שונים של ניצול מיני ופגיעה באחר.
+                            </p>
+                            <!--<p>עמותת תודעה קמה בשנת 2002 כארגון הראשון בארץ שקם על מנת להיאבק בתופעת הזנות. כיום העמותה עוסקת בחינוך ובהסברה לנוער ולצעירים בכדי למנוע מצבים שונים של ניצול מיני ופגיעה באחר.</p>-->
+                            <h3>מטרת המדריך</h3>
+                            <p>
+                                מטרת המדריך היא ללמד אתכם המורים על השימוש בקומיקס האינטראקטיבי. <br />
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingTwo">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                הממשק
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <h3>הממשק</h3>
+                            <p>
+                                הממשק כולל קומיקס אינטראקטיבי עם סיפור מסתעף בנושא הפצת תמונה אינטימית . במהלך הקומיקס התלמידים 
+                                ילמדו איך לזהות סיטואציות בעיתיות בסביבתם וכיצד לפעול בסיטואציות אלו. בנוסף יבינו את ההשלכות למעשים שלהם. <br />
+                                <br />
+                                הקומיקס האינטראקטיבי מורכב מסיפור מסתעף. לאחר קריאה של סיטואציה תופיע על המסך מחשבה או שאלה. <br />
+                                התלמידים בוחרים את התשובה ובהתאם לכך ממשיכים לסצנה הבאה. <br />
+                                בסיום הקומיקס הם מקבלים משוב מסכם אודות הבחירות שביצעו בקומיקס. <br />
+                                הממשק קל ונוח לשימוש. תוכלו להתנסות בו בעצמכם לפני שתעבירו אותו לתלמידים.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingThree">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                                הנושא
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <h3>הנושא</h3>
+                            <p>
+                                פגיעות והטרדה מינית ברשת. <br />
+                                מחקרים מראים כי הגיל הממוצע בישראל לחשיפה ראשונית לתוכן פורנוגרפי הוא 10 ואף קודם לכן. <br />
+                                עולם המדיה גדוש מסרים מיניים ולעיתים לא צריך בכלל לצפות בפורנו כדי לראות פורנו.  <br />
+                                האפשרות לצפות נמצאת אצל כל אחד ואחת מהתלמידים שלנו בנייד 24/7.  <br />
+                                בני ובנות הנוער חשופים לפגיעות ובפרט פגיעות מיניות יותר ממבוגרים. <br />
+                                פגיעה מינית היא מצב המבוסס על חוויות של נשים או גברים אשר נתקלו בתשומת לב מינית לא רצויה. <br />
+                                המונח הטרדה מינית מתייחס לחוויות של מבוגרים ולעבירות של עוינות.
+                                
+                            </p>
+                            <p>
+                                מחקרם
+                                <a target="_blank" href="https://www.hebpsy.net/articles.asp?id=3570">  של אפרת ושלומית הברון (2017)</a>
+                                שבוצע בישראל, 
+                                מצביע שמחצית מבני הנוער צילמו עצמם בעירום, ומתוכם 40% שלחו את הסרטון או התמונה הלאה.<br />
+                                לכן החשיבות בללמד את בני הנוער מגיל צעיר להפעיל שיקול דעת מה נכון ומה לא נכון לעשות במצבים<br />
+                                מסויימים ולתת להם כלים איך להתמודד עם מצבים שונים, היא חשובה מאוד וזוהי מטרת הקומיקס.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="card-header" id="headingfor">
+                        <h2 class="mb-0">
+                            <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#collapsefor" aria-expanded="false" aria-controls="collapsefor">
+                                מערך שיעור בנושא
+                            </button>
+                        </h2>
+                    </div>
+                    <div id="collapsefor" class="collapse" aria-labelledby="headingfor" data-parent="#accordionExample">
+                        <div class="card-body">
+                            <h3>פתיחת השיעור</h3>
+                            <p>
+                                תוכלו לדון עם התלמידים על הנושא כפי שהוסבר קודם בלשונית ״הנושא״.<br />
+                                שיחה קצרה עם בני הנוער בנושא, תוך שאילת שאלות מהי הטרדה מבחינתם? היכן עובר הגבול? וכו'.. . <br />
+                                ניתן לכתוב על הלוח מילים ( מין, זוגיות, הטרדה...) והתלמידים יגידו את האסוציאציות שעולות להם. אתם תכתבו אותן על הלוח. 
+                            </p>
+
+                            <h3>שימוש בממשק</h3>
+                            <p>
+                                שלחו לתלמידים את הקישור לממשק הקומיקס. הסבירו להם שיש צורך ללחוץ על כפתור ״כניסה לתלמיד״ לאחר מכן לכתוב את שמם. <br />
+                                השימוש בקומיקס הוא כ 10-15 דקות.
+                            </p>
+
+                            <h3>סיום השיעור</h3>
+                            <p>
+                                דיון עם התלמידים. אפשרו להם לספר על הרגשות שלהם, מה הם חושבים על הקומיקס, מה הם היו עושים אם היו נתקלים בסיטואציה כזאת בבית הספר או מחוץ לו.   <br />
+                                דברו איתם על נושא הטרדות מיניות, שיימינג ובטיחות ברשת ופתחו איתם שיח משמעותי. <br />
+                                לבסוף סכמו את מה שנאמר בדיון. <br />
+                            </p>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+        <!--הקוד-->
+        <div id="myCode" class="opBut">
+            <button type="button" id="perchi" class="btn  opButColor myPer">חזרה</button>
+
+
+            <label for="NameStudent" class="textwith">כתבו את שמכם</label>
+            <input type="text" class="form-control" id="NameStudent" placeholder="כתבו את שמכם">
+
+            <label for="codeGame" class="textwith">כתבו את קוד הסימולציה</label>
+            <input type="number" class="form-control" id="codeGame" placeholder="כתבו את קוד הסימולציה">
+            <button type="button" id="start" class="btn opButColor btn-lg secendBut">כניסה</button>
+
+
+
+        </div>
+
+
+
+
+        <!--המחולל-->
+        <!--הדפים-->
+        <div id="pageOrgin">
+            <div id="imagepage" class="row"></div>
+
+            <a href="#" type="button" id="QutisionBut" class="btn  btn-lg opBut2 opButColor">המשך</a>
+
+        </div>
+        <!--השאלה-->
+        <div id="QuizPage">
+            <div class="row" id="imageQuiz"></div>
+            <!--<div class="row">
+                <a href="#" type="button" id="Q1" class="btn btn-success  col"></a>
+                <a href="#" type="button" id="Q3" class="btn btn-success  col"></a>
+                <a href="#" type="button" id="Q2" class="btn btn-success  col"></a>
+            </div>-->
+            <!--<div class="tutorialQuit"></div>-->
+            <div class="tutorialQuit">
+                <p id="Q1p"></p>
+                <p id="Q2p"></p>
+            </div>
+        </div>
+        <div id="TheEnd">
+            <!--<img id="imagEnd" src="images/bac3.png" />-->
+            <!--<h1 id="myName"></h1>-->
+
+
+            <div class="row message-body">
+                <div class="col-sm-12 message-main-sender">
+                    <div class="sender">
+                        <div class="message-text firstTxt">
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="myMasov"></div>
+            <button type="button" id="startAgin" class="btn  btn-lg opButColor secendBut myButEnd">סיום</button>
+
+
+
+
+            <p id="Masov"></p>
+        </div>
+
+        <footer class="sticky">
+            תוצר זה פותח במסגרת פרויקט גמר לתואר ראשון
+            <br />
+            <a href="https://www.hit.ac.il/telem/overview" target="_blank">בפקולטה לטכנולוגיות למידה</a>
+            ,HIT <a id="odotPop" data-toggle="modal" data-target="#Odot2">למידע נוסף>></a>
+        </footer>
+        <footer class="NoSticky">
+            תוצר זה פותח במסגרת פרויקט גמר לתואר ראשון 
+            <br/>
+            <a href="https://www.hit.ac.il/telem/overview" target="_blank">בפקולטה לטכנולוגיות למידה</a>
+            ,HIT <a id="odotPop" data-toggle="modal" data-target="#Odot2">למידע נוסף>></a>
+        </footer>
+
+
+        <div class="mavar">
+
+        </div>
+
+        <!--הוידיו בפתיחה-->
+        <div class="myVideo">
+            <div class="thisVideo" ></div>
+
+            <a href="#" type="button" id="NextVedo" class="btn  btn-lg opBut2 opButColor" onclick="myVideoOp()">התחילו את הקומיקס</a>
+
+        </div>
+
+        <div class="theEndMavar">
+            
+            <div class="centerTXT">
+                <h2 class="titelInMavarEnd" >
+                    סיימתם את הקומיקס
+                    <br/>
+                    כדי לצפות בבחירות שלכם
+                    <br />
+                    עברו למשוב המסכם
+                </h2>
+                <h3 class="congeluisn">🏆</h3>
+                <a href="#" type="button" id="TheEndButToMavar" class="btn  btn-lg opBut2 opButColor" onclick="End()">משוב מסכם</a>
+                
+            </div>
+
+        </div>
+
+
+        <div class="myTheEndPage">
+
+            <div class="row firsPinOdot theEnd">
+                <div class="col-4">
+                    <img src="images/logoT.L.gif" width="100%" height="80px" />
+                </div>
+                <div class="col-8">
+                    <h2>צוות הפרויקט: </h2>
+                    <p>
+                        אופיר מזרחי
+                        <br />
+                        עמר כרמי
+                    </p>
+                    <h2>מנחים:</h2>
+                    <p>
+                        בן אהרון אורן
+                        <br />
+                        ד"ר היילי וייגלט-מרום
+                    </p>
+                </div>
+                <div class="row secendPinOdot">
+                    <div class="col-4">
+                        <img src="images/logoToda.png" width="100%" height="80px" />
+                    </div>
+                    <div class="col-8 pTheEnd">
+                        <p>
+                            בשיתוף עם עמותת תודעה
+                            <br />
+                            נציגת הארגון ניצן עגני בן – דב
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </div>
+
+        <div class="swipUp">
+            <!--<img class="swip1" src="images/swip-Up3.gif" />-->
+        </div>
+        <div class="swipLr">
+            <!--<img class="swip2" src="images/swip-lr.gif" />-->
+        </div>
+
+
+        <!-- אודות -->
+        <div dir="rtl" class="modal fade" id="Odot2" tabindex="-1" role="dialog" aria-labelledby="Odot2" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h5 class="RTXT">אודות</h5>
+                    </div>
+                    <div class="modal-body" dir="rtl">
+                        <div class="centerTXT">
+                            <img src="images/logo2.png" width="40%" height="40%" />
+                            <p>
+                                קומיקס אינטראקטיבי מסתעף בקומיקס לנוער
+                                <br/>
+                                בנושא פגיעות והטרדה מינית ברשת
+
+                            </p>
+                            <p>
+                                פרויקט גמר, תשע"ט
+                                <br />
+                                <a href="https://www.hit.ac.il/telem/overview" target="_blank">לטכנולוגיות למידה</a>
+                            </p>
+                        </div>
+                        <div class="row firsPinOdot">
+                            <div class="col-4">
+                                <img src="images/logoT.L.gif" width="100%" height="80px" />
+                            </div>
+                            <div class="col-8">
+                                <h2>צוות הפרויקט: </h2>
+                                <p>
+                                    אופיר מזרחי
+                                    <br />
+                                    עמר כרמי
+                                </p>
+                                <h2>מנחים:</h2>
+                                <p>
+                                    בן אהרון אורן
+                                    <br />
+                                    ד"ר היילי וייגלט-מרום
+                                </p>
+                            </div>
+
+                        </div>
+                        <div class="row secendPinOdot">
+                            <div class="col-4">
+                                <img src="images/logoToda.png" width="100%" height="80px" />
+                            </div>
+                            <div class="col-8">
+                                <p>
+                                    בשיתוף עם עמותת תודעה
+                                    <br />
+                                    נציגת הארגון ניצן עגני בן – דב
+                                </p>
+                            </div>
+                        </div>
+                        <div class="centerTXT lastPinOdot">
+                            <p>© כל הזכויות שמורות למכון טכנולוגי חולון HIT</p>
+                        </div>
+
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">סגור</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- בעיה -->
+        <div dir="rtl" class="modal fade" id="EROR" tabindex="-1" role="dialog" aria-labelledby="EROR2" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                        <h5 class="RTXT">בעיה</h5>
+                    </div>
+                    <div class="modal-body" dir="rtl">
+                        <div class="centerTXT">
+
+                            <p id="myEror"></p>
+
+   
+                        </div>
+                        
+
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">סגור</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+    </div>
+
+
+
+
+
+</body>
+</html>

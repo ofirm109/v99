@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<allApp>
+  <games gameNum="2">
+    <game id="1" code="101">
+      <page id="1" quiz="false" >
+        <tochen tape="img" >image_name.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="2" quiz="false" >
+        <tochen tape="img" >image_name1.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="3" quiz="true" >
+        <tochen tape="img" >image_name2.png</tochen>
+        <myseala linke="4" tayp="text">לא לשלוח</myseala>
+        <myseala linke="6" tayp="text">לשלוח</myseala>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="4" quiz="false" >
+        <tochen tape="img" >image_name3.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="5" quiz="false" >
+        <tochen tape="img" >image_name4.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="6" quiz="false" >
+        <tochen tape="img" >image_name5.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+
+    </game>
+    <game id="2" code="105">
+
+      <page id="1" quiz="false" >
+        <tochen tape="video" >https://www.youtube.com/watch?v=FJklSgysL6k</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+
+      <page id="2" quiz="false" >
+        <tochen tape="img" >story-01.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="3" quiz="false" >
+        <tochen tape="img" >story-02.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="4" quiz="false" >
+        <tochen tape="img" >story-03.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="5" quiz="false" >
+        <tochen tape="img" >story-04.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="6" quiz="false" >
+        <tochen tape="img" >story-05.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="7" quiz="false" >
+        <tochen tape="img" >story-06.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      
+      <page id="8" quiz="true" >
+        <tochen tape="img" >story-07.png</tochen>
+        <myseala linke="10" tayp="text">לא לשלוח</myseala>
+        <myseala linke="12" tayp="text">לשלוח</myseala>
+        <discripsion>איתי מתלבט אם לשלוח את התמונה.</discripsion>
+      </page>
+
+      <page id="9" quiz="false" >
+        <tochen tape="img" >story-08.png</tochen>
+        <discripsion>בחרתם לא לשלוח את התמונה.</discripsion>
+      </page>
+      <page id="10" quiz="false" >
+        <tochen tape="img" >story-09.png</tochen>
+        <discripsion>איתי ושירה מאושרים ❤ .</discripsion>
+      </page>
+      <page id="11" quiz="false" >
+        <tochen tape="img" >story-10.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="12" quiz="false" >
+        <tochen tape="img" >story-11.png</tochen>
+        <discripsion>בחרתם לשלוח את התמונה.</discripsion>
+      </page>
+      <page id="13" quiz="false" >
+        <tochen tape="img" >story-12.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="14" quiz="false" >
+        <tochen tape="img" >story-13.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="15" quiz="false" >
+        <tochen tape="img" >story-14.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="16" quiz="false" >
+        <tochen tape="img" >story-15.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="17" quiz="false" >
+        <tochen tape="img" >story-16.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="18" quiz="false" >
+        <tochen tape="img" >story-17.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="19" quiz="false" >
+        <tochen tape="img" >story-18.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="20" quiz="true" >
+        <tochen tape="img" >story-19.png</tochen>
+        <myseala linke="21" tayp="text">לא לשלוח</myseala>
+        <myseala linke="24" tayp="text">לשלוח</myseala>
+        <discripsion>שירה מתלבטת אם לשלוח לאיתי את התמונה שלה ללא בגדים.</discripsion>
+      </page>
+
+      <page id="21" quiz="false" >
+        <tochen tape="img" >story-20.png</tochen>
+        <discripsion>בחרתם לא לשלוח את התמונה, שירה ואיתי מאושרים 😉.</discripsion>
+      </page>
+      <page id="22" quiz="false" >
+        <tochen tape="img" >story-21.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="23" quiz="false" >
+        <tochen tape="img" >story-22.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="24" quiz="false" >
+        <tochen tape="img" >story-23.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="25" quiz="false" >
+        <tochen tape="img" >story-24.png</tochen>
+        <discripsion> החלטתם ששירה תשלח לאיתי את התמונה שלה ללא בגדים. </discripsion>
+      </page>
+      <page id="26" quiz="false" >
+        <tochen tape="img" >story-25.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="27" quiz="false" >
+        <tochen tape="img" >story-26.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="28" quiz="false" >
+        <tochen tape="img" >story-27.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="29" quiz="false" >
+        <tochen tape="img" >story-28.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="30" quiz="false" >
+        <tochen tape="img" >story-29.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="31" quiz="false" >
+        <tochen tape="img" >story-30.png</tochen>
+        <discripsion> אופק ראה את התמונה של שירה ללא בגדים בנייד של איתי והחליט לשלוח את התמונה לנייד שלו.</discripsion>
+      </page>
+      <page id="32" quiz="true" >
+        <tochen tape="img" >story-31.png</tochen>
+        <myseala linke="39" tayp="text">לא לספר לאיתי</myseala>
+        <myseala linke="33" tayp="text">לספר לאיתי</myseala>
+        <discripsion> נועם שראה את אופק שולח את התמונה , מתלבט אם לספר לאיתי. </discripsion>
+      </page>
+
+      <page id="33" quiz="false" >
+        <tochen tape="img" >story-32.png</tochen>
+        <discripsion>בחרתי לספר לאיתי , התמונה לא נשלחה. 😉</discripsion>
+      </page>
+      <page id="34" quiz="false" >
+        <tochen tape="img" >story-33.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="35" quiz="false" >
+        <tochen tape="img" >story-34.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="36" quiz="false" >
+        <tochen tape="img" >story-35.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="37" quiz="false" >
+        <tochen tape="img" >story-36.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="38" quiz="false" >
+        <tochen tape="img" >story-37.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="39" quiz="false" >
+        <tochen tape="img" >story-38.png</tochen>
+        <discripsion>החלטתי שנועם לא יספר לאיתי . </discripsion>
+      </page>
+      <page id="40" quiz="false" >
+        <tochen tape="img" >story-39.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="41" quiz="false" >
+        <tochen tape="img" >story-40.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="42" quiz="false" >
+        <tochen tape="img" >story-41.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="43" quiz="false" >
+        <tochen tape="img" >story-42.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="44" quiz="false" >
+        <tochen tape="img" >story-43.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="45" quiz="true" >
+        <tochen tape="img" >story-44.png</tochen>
+        <myseala linke="49" tayp="text">לא לספר לשירה</myseala>
+        <myseala linke="46" tayp="text">לספר לשירה</myseala>
+        <discripsion>רון מתלבט אם לספר לשירה שהתמונה שלה נשלחה.</discripsion>
+      </page>
+      <page id="46" quiz="false" >
+        <tochen tape="img" >story-45.png</tochen>
+        <discripsion>בחרתם לספר לשירה 😇.</discripsion>
+      </page>
+      <page id="47" quiz="false" >
+        <tochen tape="img" >story-46.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+
+      <page id="48" quiz="false" >
+        <tochen tape="img" >story-47.png</tochen>
+        <discripsion>החלטתם שרון לא לספר לשירה שהתמונה שלה נשלחה. </discripsion>
+      </page>
+      <page id="49" quiz="false" >
+        <tochen tape="img" >story-48.png</tochen>
+        <discripsion>התמונה המשיכה להישלח לעוד חברים מהכיתה ולבסוף הופצה לכל הכיתה 😭.</discripsion>
+      </page>
+      <page id="50" quiz="false" >
+        <tochen tape="img" >story-49.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="51" quiz="false" >
+        <tochen tape="img" >story-50.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="52" quiz="false" >
+        <tochen tape="img" >story-51.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="53" quiz="false" >
+        <tochen tape="img" >story-52.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="54" quiz="false" >
+        <tochen tape="img" >story-53.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="55" quiz="false" >
+        <tochen tape="img" >story-54.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="56" quiz="false" >
+        <tochen tape="img" >story-55.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="57" quiz="false" >
+        <tochen tape="img" >story-56.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      <page id="58" quiz="false" >
+        <tochen tape="img" >story-57.png</tochen>
+        <discripsion> </discripsion>
+      </page>
+      
+    </game>
+  </games>
+</allApp>

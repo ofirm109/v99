@@ -1,0 +1,528 @@
+﻿html {
+    overflow-x: hidden;
+}
+
+body {
+    /*background-image: url(../images/bac-02.png);*/
+    background-color: #8E69FF;
+    background-color: rgba(97, 138, 232, 0.3);
+    background-color: #618AE8;
+    background-color: rgba(97, 138, 232, 0.1);
+    background-size: 100%;
+    /*overflow: hidden;
+    width: 100%;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;*/
+}
+
+.opBut {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 70%;
+}
+
+.opBut2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+.secendBut {
+    margin-top: 10%;
+    width: 100%;
+}
+
+label {
+    direction: rtl;
+    display: block;
+    float: right;
+}
+
+#Q1 {
+    display: block;
+}
+
+#Q1 {
+    display: inline-block;
+}
+
+#Q2 {
+    display: inline-block;
+    float: left;
+}
+
+.myNext {
+    width: 100%;
+}
+
+#myLogo {
+    display: block;
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin-top: 10%;*/
+}
+
+.textwith {
+    color: white;
+    color: black;
+}
+
+#myCode {
+    margin-top: 20%;
+    margin-bottom: 20%;
+}
+
+#myName, #Masov {
+    text-align: right;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+#myName {
+    margin-top: 10%;
+}
+
+#QutisionBut {
+    width: 104%;
+}
+
+.greenNo, greenNo:hover {
+    background-color: green;
+}
+
+.opButColor, .opButColor:hover {
+    background-color: #62E858;
+    background-color: rgba(142,105,255,1);
+    background-color: #d495ff;
+    color: black;
+}
+
+#Q1, #Q3, #Q2 {
+    /*padding-top:10%;
+    padding-bottom:10%;*/
+}
+
+#imagEnd {
+    width: 100%;
+    height: 100%;
+}
+
+#imageQuiz {
+}
+
+.tutorialQuit {
+    z-index: 1;
+    position: fixed;
+    /*top: 00px;*/
+    bottom: 00px;
+    /*background-image:url(../images/tutorial-24.png);
+    background-size:100% 100%;*/
+    display: block;
+    display: block;
+    width: 107%;
+    /*height:100%;*/
+    right: -4%;
+    height: 20%;
+    /*background-image: linear-gradient(to right,#618AE8, rgba(0, 0, 255, 0), #618AE8);*/
+    background-image: linear-gradient(to right,#004dff, rgba(0, 0, 255, 0), #004dff);
+}
+
+#Q1p, #Q2p {
+    position: fixed;
+    top: 87%;
+    color: white;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+#Q1p {
+    right: 8%;
+}
+
+#Q2p {
+    left: 8%;
+}
+
+.mavar {
+    position: fixed;
+    padding-left: 0px;
+    right: -10%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    top: 00px;
+    bottom: 00px;
+    display: block;
+    width: 115%;
+    height: 100%;
+    background-color: black;
+    z-index:500;
+}
+
+.myTheEndPage {
+    position: fixed;
+    padding-left: 0px;
+    right: -10%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    top: 00px;
+    bottom: 00px;
+    display: block;
+    width: 100%;
+    width: 110%;
+    background-color: white;
+}
+
+.myVideo, .theEndMavar {
+    position: fixed;
+    padding-left: 10px;
+    padding-right: 10px;
+    right: 0%;
+    padding-top: 70%;
+    padding-bottom: 0px;
+    top: -35%;
+    bottom: 00px;
+    display: block;
+    width: 100%;
+    height: 150%;
+    background-color: black;
+}
+
+.myVideo {
+    /*right: -7%;*/
+    right: -4%;
+    width: 108%;
+    /* padding-left: 9%; */
+    /* padding-right: 10%; */
+    top: -36%;
+}
+
+.theEnd {
+    margin-right: 10%;
+}
+
+/*#student,#techer{
+    background-color:#62E858;
+}*/
+.swipUp {
+    /*background-image:url(../images/swip-Up3.gif);*/
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    top: 00px;
+    bottom: 00px;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.swip1 {
+    margin-left: 10%;
+    width: 100%;
+    height: 100%;
+}
+
+.swip2 {
+    width: 100%;
+    height: 100%;
+}
+
+.swipLr {
+    /*background-image:url(../images/swip-Up3.gif);*/
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    top: 00px;
+    bottom: 00px;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+#OPtecher {
+    margin-top: 20%;
+    padding-bottom: 40%;
+}
+
+p, h1, h2, h3 {
+    text-align: right;
+}
+
+.myPer {
+    position: fixed;
+    top: 0px;
+    right: 0px;
+    float: right;
+    z-index: 1;
+}
+
+.opBut1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    width: 85%;
+}
+
+.glyphicon {
+    font-size: 15pt;
+}
+
+#Masov {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+.message-main-sender {
+    padding: 3px 20px !important;
+    margin-left: 40% !important;
+    max-width: 69%;
+}
+
+.sender {
+    float: right;
+    width: auto !important;
+    background: #dcf8c6;
+    border-radius: 10px 10px 0 10px;
+    padding: 4px 10px 7px !important;
+    font-size: 12px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.sender2 {
+    float: right;
+    width: 160% !important;
+    background: #dcf8c6;
+    border-radius: 10px 10px 0 10px;
+    padding: 4px 10px 7px !important;
+    font-size: 12px;
+    text-shadow: 0 1px 1px rgba(0, 0, 0, .2);
+    display: inline-block;
+    word-wrap: break-word;
+}
+
+.message-text {
+    text-align: right;
+    margin: 0 !important;
+    padding: 5px !important;
+    word-wrap: break-word;
+    font-weight: 200;
+    font-size: 14px;
+    padding-bottom: 0 !important;
+}
+
+.message-time {
+    margin: 0 !important;
+    margin-left: 50px !important;
+    font-size: 12px;
+    text-align: right;
+    color: #9a9a9a;
+}
+
+.myButEnd {
+    width: 105%;
+}
+
+footer {
+    font-weight: bold;
+    /*background-color: white;*/
+    color: white;
+    background-image: url(../images/foo-01.png);
+    padding-top: 30px;
+    background-size: 100% 100%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 9pt;
+}
+
+#odotPop {
+    color: dodgerblue;
+}
+
+    #odotPop:hover {
+        text-decoration: dashed;
+    }
+
+.centerTXT p {
+    text-align: center;
+}
+
+.centerTXT img {
+    margin-left: 104px;
+    margin-top: -30px;
+}
+
+.firsPinOdot {
+    margin-top: 0%;
+}
+
+.secendPinOdot {
+    margin-top: 0%;
+    margin-right: -1px;
+}
+
+.lastPinOdot {
+    margin-top: 0%;
+    font-size: 9pt;
+}
+
+.RTXT {
+    text-align: center;
+}
+
+.close {
+    padding-left: 0px;
+}
+
+.titelInMavarEnd {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 0px;
+}
+
+.sender {
+    background-color: #faffb4;
+}
+
+strong {
+    font-weight: bold !important;
+}
+
+#techer {
+    margin-bottom: 00px;
+}
+
+#startTch {
+    margin-bottom: 160px;
+}
+
+#start {
+    margin-bottom: 195px;
+}
+
+.myNone {
+    display: none;
+}
+
+.sticky {
+    width: 100%;
+    position: fixed;
+    bottom: 00px;
+    padding-bottom: 10px;
+}
+
+
+
+
+
+
+.modal-body h2 {
+    font-size: 15pt;
+}
+
+.firsPinOdot p {
+    font-size: 10pt;
+}
+
+.secendPinOdot p {
+    font-size: 10pt;
+    margin-top: 13px;
+}
+
+.modal-body .centerTXT p {
+    font-size: 10pt;
+}
+
+.modal {
+    padding-right: 00px !important;
+}
+
+.centerTXT p:nth-child(1) {
+    margin-top: 10px;
+}
+
+.modal .centerTXT p:nth-child(2) {
+    margin-top: -15px;
+}
+
+#TheEnd > .message-body > .message-main-sender {
+    padding-left: 0px !important;
+}
+
+.theEnd {
+    margin-top: 150px;
+}
+
+.titelInMavarEnd {
+    font-size: 18pt;
+}
+
+.theEndMavar {
+    width: 110%;
+    background-color: #6e40f9;
+    right: -5%;
+}
+
+.congeluisn {
+    text-align: center;
+    font-size: 120pt;
+}
+
+.card-body h3 {
+    color: #55007d;
+}
+
+.card-header .btn-link {
+    color: #55007d;
+}
+
+#student {
+    margin-top: -35px;
+}
+
+footer a {
+    color: #00dcff;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+#odotPop {
+    color: #00dcff;
+}
+
+#accordionExample {
+    margin-top: 70px;
+    min-height: 450px;
+}
+
+.pTheEnd {
+    padding-right: 4.5%;
+}
+
+.modal-body .secendPinOdot {
+    margin-top: 0%;
+    margin-right: -19px;
+}
+.thisVideo{
+    /*height:80%;*/
+}

@@ -1,0 +1,657 @@
+﻿{
+	"allApp": {
+		"games": {
+			"game": [
+				{
+					"page": [
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name.png"
+							},
+							"discripsion": "",
+							"_id": "1",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name1.png"
+							},
+							"discripsion": "",
+							"_id": "2",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name2.png"
+							},
+							"myseala": [
+								{
+									"_linke": "4",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "6",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": "",
+							"_id": "3",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name3.png"
+							},
+							"discripsion": "",
+							"_id": "4",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name4.png"
+							},
+							"discripsion": "",
+							"_id": "5",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "image_name5.png"
+							},
+							"discripsion": "",
+							"_id": "6",
+							"_quiz": "false"
+						}
+					],
+					"_id": "1",
+					"_code": "1001"
+				},
+				{
+					"page": [
+						{
+							"tochen": {
+								"_tape": "video",
+								"__text": "https://www.youtube.com/watch?v=furq194bUb4"
+							},
+							"discripsion": "",
+							"_id": "1",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-01.png"
+							},
+							"discripsion": "",
+							"_id": "2",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-02.png"
+							},
+							"discripsion": "",
+							"_id": "3",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-03.png"
+							},
+							"discripsion": "",
+							"_id": "4",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-04.png"
+							},
+							"discripsion": "",
+							"_id": "5",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-05.png"
+							},
+							"discripsion": "",
+							"_id": "6",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-06.png"
+							},
+							"discripsion": "",
+							"_id": "7",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-07.png"
+							},
+							"myseala": [
+								{
+									"_linke": "9",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "12",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": " ",
+							"_id": "8",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-08.png"
+							},
+							"discripsion": "איתי מתלבט אם לשלוח את התמונה. <span> <strong> בחרת לא לשלוח את התמונה ,התמונה נמחקה 👍. </strong> </span> איתי ושירה מאושרים ❤ . <span class='myNone'>",
+							"_id": "9",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-09.png"
+							},
+							"discripsion": "",
+							"_id": "10",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-10.png"
+							},
+							"discripsion": "",
+							"_id": "11",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-11.png"
+							},
+							"discripsion": "איתי מתלבט אם לשלוח את התמונה. <strong> בחרת לשלוח את התמונה . </strong> </span>",
+							"_id": "12",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-12.png"
+							},
+							"discripsion": "",
+							"_id": "13",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-13.png"
+							},
+							"discripsion": "",
+							"_id": "14",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-14.png"
+							},
+							"discripsion": "",
+							"_id": "15",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-15.png"
+							},
+							"discripsion": "",
+							"_id": "16",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-16.png"
+							},
+							"discripsion": "",
+							"_id": "17",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-17.png"
+							},
+							"discripsion": "",
+							"_id": "18",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-18.png"
+							},
+							"discripsion": "@@",
+							"_id": "19",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-19.png"
+							},
+							"myseala": [
+								{
+									"_linke": "21",
+									"_tayp": "text",
+									"__text": "לא לשלוח"
+								},
+								{
+									"_linke": "24",
+									"_tayp": "text",
+									"__text": "לשלוח"
+								}
+							],
+							"discripsion": "",
+							"_id": "20",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-20.png"
+							},
+							"discripsion": "שירה מתלבטת אם לשלוח לאיתי את התמונה שלה ללא בגדים. <span> </span> <strong> בחרת לא לשלוח את התמונה, שירה ואיתי מאושרים והתמונה נמחקה 😉 👍. </strong> <span class='myNone'>",
+							"_id": "21",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-21.png"
+							},
+							"discripsion": "",
+							"_id": "22",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-22.png"
+							},
+							"discripsion": "",
+							"_id": "23",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-23.png"
+							},
+							"discripsion": "",
+							"_id": "24",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-24.png"
+							},
+							"discripsion": "שירה מתלבטת אם לשלוח לאיתי את התמונה שלה ללא בגדים. <strong> בחרת ששירה תשלח לאיתי את התמונה. </strong> </span> ",
+							"_id": "25",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-25.png"
+							},
+							"discripsion": "@@",
+							"_id": "26",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-26.png"
+							},
+							"discripsion": "",
+							"_id": "27",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-27.png"
+							},
+							"discripsion": "",
+							"_id": "28",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-28.png"
+							},
+							"discripsion": "",
+							"_id": "29",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-29.png"
+							},
+							"discripsion": "",
+							"_id": "30",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-30.png"
+							},
+							"discripsion": "",
+							"_id": "31",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-31.png"
+							},
+							"myseala": [
+								{
+									"_linke": "39",
+									"_tayp": "text",
+									"__text": "לא לספר לאיתי"
+								},
+								{
+									"_linke": "33",
+									"_tayp": "text",
+									"__text": "לספר לאיתי"
+								}
+							],
+							"discripsion": "",
+							"_id": "32",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-32.png"
+							},
+							"discripsion": "נועם שראה את אופק שולח את התמונה , מתלבט אם לספר לאיתי. <span> </span> <strong> בחרת לספר לאיתי , התמונה לא נשלחה. 👍😉 </strong> <span class='myNone'>",
+							"_id": "33",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-33.png"
+							},
+							"discripsion": "",
+							"_id": "34",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-34.png"
+							},
+							"discripsion": "",
+							"_id": "35",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-35.png"
+							},
+							"discripsion": "",
+							"_id": "36",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-36.png"
+							},
+							"discripsion": "",
+							"_id": "37",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-37.png"
+							},
+							"discripsion": "",
+							"_id": "38",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-38.png"
+							},
+							"discripsion": "נועם שראה את אופק שולח את התמונה , מתלבט אם לספר לאיתי. <strong> בחרת שנועם לא יספר לאיתי .   </strong> </span>",
+							"_id": "39",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-39.png"
+							},
+							"discripsion": "@@",
+							"_id": "40",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-40.png"
+							},
+							"discripsion": "",
+							"_id": "41",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-41.png"
+							},
+							"discripsion": "",
+							"_id": "42",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-42.png"
+							},
+							"discripsion": "",
+							"_id": "43",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-43.png"
+							},
+							"discripsion": "",
+							"_id": "44",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-44.png"
+							},
+							"myseala": [
+								{
+									"_linke": "49",
+									"_tayp": "text",
+									"__text": "לא לספר לשירה"
+								},
+								{
+									"_linke": "46",
+									"_tayp": "text",
+									"__text": "לספר לשירה"
+								}
+							],
+							"discripsion": "",
+							"_id": "45",
+							"_quiz": "true"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-45.png"
+							},
+              "discripsion": "רון מתלבט אם לספר לשירה שהתמונה שלה נשלחה. <strong>  בחרת לספר לשירה והתמונה הפסיקה להישלח 👍😇. </strong> <span class='myNone'>",
+							"_id": "46",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-46.png"
+							},
+							"discripsion": "",
+							"_id": "47",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-47.png"
+							},
+							"discripsion": "",
+							"_id": "48",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-48.png"
+							},
+							"discripsion": "",
+							"_id": "49",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-49.png"
+							},
+							"discripsion": "רון מתלבט אם לספר לשירה שהתמונה שלה נשלחה. <strong> בחרת שרון לא יספר לשירה שהתמונה שלה נשלחה . </strong> התמונה המשיכה להישלח לעוד חברים מהכיתה ולבסוף הופצה לכל הכיתה 😭.  </span>",
+							"_id": "50",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-50.png"
+							},
+							"discripsion": "",
+							"_id": "51",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-51.png"
+							},
+							"discripsion": "",
+							"_id": "52",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-52.png"
+							},
+							"discripsion": "",
+							"_id": "53",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-53.png"
+							},
+							"discripsion": "",
+							"_id": "54",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-54.png"
+							},
+							"discripsion": "",
+							"_id": "55",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-55.png"
+							},
+							"discripsion": "",
+							"_id": "56",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-56.png"
+							},
+							"discripsion": "",
+							"_id": "57",
+							"_quiz": "false"
+						},
+						{
+							"tochen": {
+								"_tape": "img",
+								"__text": "story-57.png"
+							},
+							"discripsion": "",
+							"_id": "58",
+							"_quiz": "false"
+						}
+					],
+					"_id": "2",
+					"_code": "105"
+				}
+			],
+			"_gameNum": "2"
+		}
+	}
+}
